@@ -1,0 +1,25 @@
+{
+  "concepts": {
+    "myocardial infarction": {
+      "definition": "Acute condition of myocardial necrosis due to prolonged ischemia",
+      "pathophysiology": "Typically caused by atherosclerotic plaque rupture and thrombus formation in coronary arteries",
+      "symptoms": [
+        "Chest pain",
+        "Shortness of breath",
+        "Diaphoresis",
+        "Nausea"
+      ],
+      "diagnosis": [
+        "ECG changes",
+        "Cardiac enzyme elevation",
+        "Imaging studies"
+      ],
+      "treatments": [
+        "Reperfusion therapy",
+        "Antiplatelet agents",
+        "Beta-blockers",
+        "PCI"
+      ]
+    }
+  }
+}

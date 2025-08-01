@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: medicore-plus
+    runtime: python
+    buildCommand: ""
+    startCommand: python medi_core_bot.py
+    envVars:
+      - key: BOT_TOKEN
+        value: YOUR_BOT_TOKEN_HERE
